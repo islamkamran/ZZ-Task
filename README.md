@@ -1,7 +1,8 @@
 # ZZ-Task
 
-<!-- Library Management System (Flask API)
-This is a Flask API for a simple Library Management System. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of books stored in a SQLite database. This README will guide you through the setup and usage of the API.
+# Library Management System (Flask API)
+
+<!-- This is a Flask API for a simple Library Management System. It allows you to perform basic CRUD (Create, Read, Update, Delete) operations on a collection of books stored in a SQLite database. This README will guide you through the setup and usage of the API.
 
 Prerequisites
 Before running the application, ensure you have the following installed:
